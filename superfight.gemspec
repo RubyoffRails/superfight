@@ -14,4 +14,6 @@ Gem::Specification.new do |gem|
   gem.name          = "superfight"
   gem.require_paths = ["lib"]
   gem.version       = Superfight::VERSION
+  gem.add_development_dependency 'rspec'
+  gem.add_development_dependency 'rake'
 end

@@ -2,6 +2,8 @@
 
 Implementation of Superfight code. Awesome ++
 
+THIS IS NOT REAL CODE (just sample for a class)
+
 ## Installation
 
 Add this line to your application's Gemfile:

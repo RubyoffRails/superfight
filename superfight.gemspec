@@ -3,9 +3,9 @@ require File.expand_path('../lib/superfight/version', __FILE__)
 
 Gem::Specification.new do |gem|
   gem.authors       = ["Jesse Wolgamott"]
-  gem.email         = ["jesse.wolgamott@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.email         = ["jesse@ruboffrails.com"]
+  gem.description   = %q{Implementation of Superflight code}
+  gem.summary       = %q{Gem for ruby off rails. Do not use}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
